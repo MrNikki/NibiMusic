@@ -20,3 +20,4 @@ youtube-search
 youtube-search-python==1.6.6
 flask
 flask_restful
+gunicorn
