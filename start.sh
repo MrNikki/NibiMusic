@@ -1,1 +1,1 @@
-python3 server.py & python3 -m NibiMusic
+python3 app.py & python3 -m NibiMusic
