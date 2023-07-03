@@ -7,8 +7,8 @@ load_dotenv()
 que = {}
 admins = {}
 
-API_ID = int(getenv("API_ID", "13831288"))
-API_HASH = getenv("API_HASH", "0d4c67b8d1bef020475434abc394ac4c")
+API_ID = int(getenv("API_ID", "28974500"))
+API_HASH = getenv("API_HASH", "cb2f5b366e83c79539f6b139186aa00d")
 BOT_USERNAME = getenv("BOT_USERNAME", "LinuxMusicBot")
 BOT_TOKEN = getenv("BOT_TOKEN")
 UPDATE_CHANNEL = getenv("UPDATE_CHANNEL", "TheBothub")
